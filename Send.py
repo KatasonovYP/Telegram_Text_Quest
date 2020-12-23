@@ -7,7 +7,7 @@ import os, sys
 
 
 
-my_token = "1400622989:AAFKL_4MCwwHtuIsYBWng0QczjoALbBO44g"
+my_token = "token"
 
 
 
